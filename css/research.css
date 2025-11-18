@@ -1,0 +1,22 @@
+/* Research Page Specific */
+.research-list {
+    list-style: none;
+    padding: 0;
+}
+
+.research-item {
+    background: white;
+    margin: 1rem 0;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-left: 4px solid #667eea;
+}
+
+.math-display {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 5px;
+    margin: 1rem 0;
+    font-family: 'Cambria Math', serif;
+}
